@@ -19,19 +19,19 @@ This is a *full-stack web application* following the *MVC (Model-View-Controller
 
 ## Installation
 1. Clone the repository:
-   sh
+   
    git clone https://github.com/faizfarooq786/Wanderlust.git
    
 2. Navigate to the project directory:
-   sh
+   
    cd your-repo
    
 3. Install dependencies:
-   sh
+   
    npm install
    
 4. Start the server:
-   sh
+   
    npm start
    
 5. Open the app in your browser:
